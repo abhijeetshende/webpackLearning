@@ -1,0 +1,15 @@
+.navbar {
+  height: 56px;
+  background: #ff6666;
+}
+
+.navbar > img {
+  width: 56px;
+  height: 56px;
+  border: 5px solid #b33333;
+}
+button {
+  background: yellowgreen;
+}
+
+/*# sourceMappingURL=main.css.map*/

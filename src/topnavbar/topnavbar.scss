@@ -1,0 +1,14 @@
+$c:red;
+$color:lighten($c,20%);
+$color2 :darken($color,50%);
+$color3:mix($color,$color2);
+.navbar{
+    height: 56px;
+    background:$color;
+}
+.navbar > img{
+    width: 56px;    
+    height: 56px;
+    border:5px solid $color3;
+    
+}
